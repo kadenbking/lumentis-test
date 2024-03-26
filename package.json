@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "next": "^14.1.4",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.4.3"
+  },
+  "name": "From-with-lumentis",
+  "description": "The given text appears to be a fictional story or narrative about a baseball player named Groot. It chronicles his journey from a young, passionate player to a legendary figure in the sport, highlighting his dedication, humility, and resilience in the face of challenges. The story is likely written by an author for readers who enjoy inspirational sports tales or fictional accounts of athletes overcoming adversity to achieve greatness.",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Baseball",
+    "Sports",
+    "Athlete",
+    "Determination",
+    "Perseverance",
+    "Passion",
+    "Legends",
+    "Inspiration",
+    "Teamwork",
+    "Dreams"
+  ]
+}
